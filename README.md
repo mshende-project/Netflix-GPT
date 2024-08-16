@@ -1,18 +1,18 @@
-#Netflix
-    . Create vite react app
-    . Installed and Configured tailwind
-
-#Features
-    . Login/Sign Up
-        . Sign In / Sign up Form
-        . Redirect to Browse Page after successfull login
-    . Browse 
-        . Header
-        . Main Movie
-            . Trailer in background
-            . Title & Description
-            . Movie Suggestions
-                . Movie Lists * N
-    . Netflix GPT
-        . Search bar
-        . Movie Suggestions
+##Netflix
+1. Create vite react app
+2. Installed and Configured tailwind
+    
+##Features
+1. Login/Sign Up
+   a. Sign In / Sign up Form
+   b. Redirect to Browse Page after successfull login
+2. Browse 
+   a. Header
+   b. Main Movie
+   c. Trailer in background
+   d. Title & Description
+   e. Movie Suggestions
+      a. Movie Lists * N
+   f. Netflix GPT
+      a. Search bar
+      b. Movie Suggestions
