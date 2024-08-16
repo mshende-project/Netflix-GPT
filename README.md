@@ -4,15 +4,15 @@
     
 ##Features
 1. Login/Sign Up
-   a. Sign In / Sign up Form
-   b. Redirect to Browse Page after successfull login
+   1. Sign In / Sign up Form
+   2. Redirect to Browse Page after successfull login
 2. Browse 
-   a. Header
-   b. Main Movie
-   c. Trailer in background
-   d. Title & Description
-   e. Movie Suggestions
-      a. Movie Lists * N
-   f. Netflix GPT
-      a. Search bar
-      b. Movie Suggestions
+   1. Header
+   2. Main Movie
+   3. Trailer in background
+   4. Title & Description
+   5. Movie Suggestions
+      1. Movie Lists * N
+   6. Netflix GPT
+      1. Search bar
+      2. Movie Suggestions
