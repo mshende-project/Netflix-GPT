@@ -1,5 +1,3 @@
-Prject link - https://streamlyticai.netlify.app/
-
 ##Netflix
 1. Create vite react app
 2. Installed and Configured tailwind
@@ -18,3 +16,5 @@ Prject link - https://streamlyticai.netlify.app/
    6. Netflix GPT
       1. Search bar
       2. Movie Suggestions
+
+Open link to view project - https://streamlyticai.netlify.app/
