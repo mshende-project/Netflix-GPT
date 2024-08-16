@@ -1,3 +1,5 @@
+Prject link - https://streamlyticai.netlify.app/
+
 ##Netflix
 1. Create vite react app
 2. Installed and Configured tailwind
