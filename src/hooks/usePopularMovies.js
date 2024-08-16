@@ -1,7 +1,7 @@
-import React, { useEffect } from "react";
+import { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { API_OPTIONS } from "../utils/constants";
-import { addNowPlayingMovies, addPopularMovies } from "../utils/movieSlice";
+import { addPopularMovies } from "../utils/movieSlice";
 
 const UsePopularMovies = (props) => {
   const dispatch = useDispatch();
@@ -19,6 +19,7 @@ const UsePopularMovies = (props) => {
 
   useEffect(() => {
     !popularMovies && getPopularMovies();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 };
 
